@@ -1,7 +1,7 @@
 # Unity-Projects
 Projects that I developed or that I am mdeveloping in my journey.
 
-*Personal Projects*
+__Personal Projects__
 Mi first ever game prototype!
 - https://lukkasvn.itch.io/labrat-nobody-demo
   
