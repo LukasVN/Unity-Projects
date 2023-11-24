@@ -1,5 +1,5 @@
 # Unity-Projects [Lucas Varela Negro]
-Projects that I developed or that I am mdeveloping in my journey.
+Projects that I developed or that I am currently developing in my journey.
 
 __Personal Projects__
 
