@@ -13,7 +13,7 @@ Projects that I developed or that I am currently developing in my journey.
 
 ### Ghost Apocalypse:
 
-- (Currently working to adapting it into a user-friendly playable build)
+- https://play.unity.com/mg/other/ghost-apocalypse-class-project
 
 ### Fruit Monster:
 
