@@ -19,6 +19,10 @@ Projects that I developed or that I am currently developing in my journey.
 
 - (Currently working to adapting it into a user-friendly playable build)
 
+### Merio Pipes (Original arcade Mario game):
+
+- (Currently working to adapting it into a user-friendly playable build)
+
 ## __Unity Learn projects__
 
 ### My Very first Unity Project:
