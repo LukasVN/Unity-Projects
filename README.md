@@ -15,7 +15,7 @@ The projects with a ⭐ represent projects that I had dedicated more time than t
 is to have all the builds as a reference of all I did during the course.
 
 ### Bounce It Arcade ⭐
-- (Currently on progress)
+- (Currently in progress)
 
 ### Naval Battle
 
