@@ -1,25 +1,44 @@
 # Unity-Projects [Lucas Varela Negro]
-Projects that I developed or that I am currently developing in my journey.
+Projects that I developed or that I am currently developing in my journey as a Game Developer.
+
+The projects with a ⭐ represent projects that I had dedicated more time than the usual.
 
 ## __Personal Projects__
+- Here I will be referencing the personal projects that I develop during my free time.
 
-### My first ever game prototype! ⭐
+### My first ever game prototype! ⭐⭐
 - https://lukkasvn.itch.io/labrat-nobody-demo
 
-### Don't Let it Fall:
+## __Game developing course [Active]__
+
+- I will slowly make a WebGL build for each of the projects made during the course, my main focus is to follow the course so the main plan
+is to have all the builds as a reference of all I did during the course.
+
+### Bounce It Arcade ⭐
 - (Currently on progress)
 
-## __Game developing course__
+### Merio Pipes
 
-### Ghost Apocalypse:
+- (Pending to be adapted it into a user-friendly playable build)
+
+### Jumping Farmer
+
+- (Pending to be adapted it into a user-friendly playable build)
+
+### Fruit Monster
+
+- (Pending to be adapted it into a user-friendly playable build)
+
+### Ghost Apocalypse
 
 - https://play.unity.com/mg/other/ghost-apocalypse-class-project
 
-### Fruit Monster:
+### Leap Frog
 
-- (Currently working to adapting it into a user-friendly playable build)
+- (Pending to be adapted it into a user-friendly playable build)
 
-### Merio Pipes (Original arcade Mario game):
 
-- (Currently working to adapting it into a user-friendly playable build)
+## Unity Learn Projects (Unity Junior Programmer Pathway) [Active]
+
+I will add playable versions as WebGL builds of the examples made during the course once finished.
 
