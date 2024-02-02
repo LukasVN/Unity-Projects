@@ -17,6 +17,10 @@ is to have all the builds as a reference of all I did during the course.
 ### Bounce It Arcade ⭐
 - (Currently on progress)
 
+### Naval Battle
+
+- (Pending to be adapted it into a user-friendly playable build)
+
 ### Merio Pipes
 
 - (Pending to be adapted it into a user-friendly playable build)
