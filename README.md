@@ -38,7 +38,7 @@ is to have all the builds as a reference of all I did during the course.
 - (Pending to be adapted it into a user-friendly playable build)
 
 
-## Unity Learn Projects (Unity Junior Programmer Pathway) [Active]
+## __Unity Learn Projects (Unity Junior Programmer Pathway) [Active]__
 
 I will add playable versions as WebGL builds of the examples made during the course once finished.
 
