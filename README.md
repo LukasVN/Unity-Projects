@@ -6,6 +6,13 @@ The projects with a ⭐ represent projects that I had dedicated more time than t
 ## __Personal Projects__
 - Here I will be referencing the personal projects that I develop during my free time.
 
+### Bounce It Arcade [On development & On Kickstarter Campaign] ⭐⭐⭐
+#### **Itch.Io**
+- https://lukkasvn.itch.io/bounce-it-arcade
+
+#### **Kickstarter**
+- https://www.kickstarter.com/projects/lukkasvn/bounce-it-arcade-free-demo-on-itchio/rewards
+
 ### My first ever game prototype! ⭐⭐
 - https://lukkasvn.itch.io/labrat-nobody-demo
 
@@ -14,8 +21,7 @@ The projects with a ⭐ represent projects that I had dedicated more time than t
 - I will slowly make a WebGL build for each of the projects made during the course, my main focus is to follow the course so the main plan
 is to have all the builds as a reference of all I did during the course.
 
-### Bounce It Arcade ⭐
-- (Currently in progress)
+
 
 ### Naval Battle
 
