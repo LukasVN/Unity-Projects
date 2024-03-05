@@ -22,23 +22,6 @@ The projects with a ⭐ represent projects that I had dedicated more time than t
 is to have all the builds as a reference of all I did during the course.
 
 
-
-### Naval Battle
-
-- (Pending to be adapted it into a user-friendly playable build)
-
-### Merio Pipes
-
-- (Pending to be adapted it into a user-friendly playable build)
-
-### Jumping Farmer
-
-- (Pending to be adapted it into a user-friendly playable build)
-
-### Fruit Monster
-
-- (Pending to be adapted it into a user-friendly playable build)
-
 ### Ghost Apocalypse
 
 - https://play.unity.com/mg/other/ghost-apocalypse-class-project
