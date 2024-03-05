@@ -1,19 +1,17 @@
 # Unity-Projects [Lucas Varela Negro]
 Projects that I developed or that I am currently developing in my journey as a Game Developer.
 
-The projects with a ⭐ represent projects that I had dedicated more time than the usual.
-
 ## __Personal Projects__
 - Here I will be referencing the personal projects that I develop during my free time.
 
-### Bounce It Arcade [On development & On Kickstarter Campaign] ⭐⭐⭐
+### Bounce It Arcade [On development & On Kickstarter Campaign] ⭐
 #### **Itch.Io**
 - https://lukkasvn.itch.io/bounce-it-arcade
 
 #### **Kickstarter**
 - https://www.kickstarter.com/projects/lukkasvn/bounce-it-arcade-free-demo-on-itchio/rewards
 
-### My first ever game prototype! ⭐⭐
+### My first ever game prototype! ⭐
 - https://lukkasvn.itch.io/labrat-nobody-demo
 
 ## __Game developing course [Active]__
