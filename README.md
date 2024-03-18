@@ -36,4 +36,7 @@ is to have all the builds as a reference of all I did during the course. [**Sour
 ## __Unity Learn Projects (Unity Junior Programmer Pathway) [Projects pending to be adapted]__
 
 I will add playable versions as WebGL builds of the examples made during the course once finished.
+### OOP Project
+- https://play.unity.com/mg/other/oop-project-unity-learn-junior-programmer-pathway-by-lukkasvn
+    - Repository: https://github.com/LukasVN/OOP-Project---Junior-Programmer-Pathway---By-LukkasVN
 
