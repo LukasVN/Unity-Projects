@@ -24,6 +24,11 @@ is to have all the builds as a reference of all I did during the course. [**Sour
 
 - https://play.unity.com/mg/other/ghost-apocalypse-class-project
 
+### Fruit Monster
+- https://play.unity.com/mg/other/fruit-monster-class-project
+
+###
+
 ...
 
 (A lot of projects pending to be adapted to playable versions)
