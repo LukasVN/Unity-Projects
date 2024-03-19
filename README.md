@@ -30,6 +30,8 @@ is to have all the builds as a reference of all I did during the course. [**Sour
 ### Merio Bros
 - https://play.unity.com/mg/other/merio-bros-class-project
 
+### Leap Frog (Math focused)
+- https://play.unity.com/mg/other/leapfrog-class-project
 
 ...
 
