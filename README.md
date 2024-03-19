@@ -11,7 +11,7 @@ Projects that I developed or that I am currently developing in my journey as a G
 #### **Kickstarter**
 - https://www.kickstarter.com/projects/lukkasvn/bounce-it-arcade-free-demo-on-itchio/rewards
 
-### My first ever game prototype! ⭐
+### My first game prototype
 - https://lukkasvn.itch.io/labrat-nobody-demo
 
 ## __Game developing course [Active]__
@@ -27,11 +27,13 @@ is to have all the builds as a reference of all I did during the course. [**Sour
 ### Fruit Monster
 - https://play.unity.com/mg/other/fruit-monster-class-project
 
-###
+### Merio Bros
+- https://play.unity.com/mg/other/merio-bros-class-project
+
 
 ...
 
-(A lot of projects pending to be adapted to playable versions)
+(Projects pending to be adapted to playable versions)
 
 ## __Unity Learn Projects (Unity Junior Programmer Pathway) [Projects pending to be adapted]__
 
