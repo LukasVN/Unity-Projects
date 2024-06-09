@@ -4,14 +4,10 @@ Projects that I have developed or that I am currently developing in my journey a
 ## __Personal Projects__
 - Here I will be referencing the personal projects that I develop during my free time.
 
-### Bounce It Arcade
-#### **Itch.Io**
-- https://lukkasvn.itch.io/bounce-it-arcade
+### Game Jam games, personal projects and prototypes on my Itch.Io
+https://lukkasvn.itch.io
 
-### My first game prototype
-- https://lukkasvn.itch.io/labrat-nobody-demo
-
-## __Game developing course [Active]__
+## __Game developing course__
 
 - I will slowly make a WebGL build for each of the projects made during the course, my main focus is to follow the course so the main plan
 is to have all the builds as a reference of all I did during the course. [**Source code not public for academic purposes**]
