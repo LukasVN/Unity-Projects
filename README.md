@@ -1,9 +1,6 @@
 # Unity-Projects [Lucas Varela Negro]
 Projects that I have developed or that I am currently developing in my journey as a Game Developer.
 
-## __Personal Projects__
-- Here I will be referencing the personal projects that I develop during my free time.
-
 ### Game Jam games, personal projects and prototypes on my Itch.Io
 https://lukkasvn.itch.io
 
@@ -30,9 +27,8 @@ is to have all the builds as a reference of all I did during the course. [**Sour
 
 (Projects pending to be adapted to playable versions)
 
-## __Unity Learn Projects (Unity Junior Programmer Pathway) [Projects pending to be adapted]__
+## __Unity Learn Projects (Unity Junior Programmer Pathway)__
 
-I will add playable versions as WebGL builds of the examples made during the course once finished.
 ### OOP Project
 - https://play.unity.com/mg/other/oop-project-unity-learn-junior-programmer-pathway-by-lukkasvn
     - Repository: https://github.com/LukasVN/OOP-Project---Junior-Programmer-Pathway---By-LukkasVN
