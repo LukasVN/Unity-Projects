@@ -6,7 +6,7 @@ https://lukkasvn.itch.io
 
 ## __Game developing course__
 
-- I will slowly make a WebGL build for each of the projects made during the course, my main focus is to follow the course so the main plan
+- I will slowly make a WebGL build for some of the projects made during the course, my main focus is to follow the course so the main plan
 is to have all the builds as a reference of all I did during the course. [**Source code not public for academic purposes**]
 
 
